@@ -10,5 +10,5 @@ Create React App
 
 
 # Notes List
-<img src="./Notes.PNG">  
+<img src="./Notes.png">  
 
